@@ -1,5 +1,5 @@
 class ConnectFour:
-    """Class contains the code for the game Four-Wins."""
+    """Class contains the code for the game "Connect Four"."""
 
     def __init__(self):
         self.current_player = "x"
